@@ -1,1 +1,1 @@
-# my-1st-repo
+Analysis of strength of concrete material
